@@ -1,0 +1,11 @@
+LearnProg Chatbot
+
+Welcome to the LearnProg Chatbot project! This chatbot is designed to answer common questions and provide assistance related to programming and learning resources.
+
+Project Structure
+
+The project directory is structured as follows:
+LearnProg_Chatbot/
+├── intents.json
+├── chat_model/
+│   └── 
